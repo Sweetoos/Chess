@@ -1,0 +1,5 @@
+--resource
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/rcc/qmake_chess_project.qrc
+--resource
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/rcc/appchess_project_raw_qml_0.qrc
+/qt/qml/chess_project/Main.qml

@@ -1,0 +1,14 @@
+-rootPath
+/Users/kacper/studia/infa/cpp/projekt/chess_project
+-cmake-output
+-output-file
+/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.cmake
+-importPath
+/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/chess_project
+-importPath
+/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug
+-importPath
+/Users/kacper/Qt/6.5.3/macos/./qml
+-qrcFiles
+/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc
+/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc

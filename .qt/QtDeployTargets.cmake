@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appchess_project_FILE /Users/kacper/studia/infa/cpp/projekt/chess_project/appchess_project.app/Contents/MacOS/appchess_project)
+set(__QT_DEPLOY_TARGET_appchess_project_TYPE EXECUTABLE)

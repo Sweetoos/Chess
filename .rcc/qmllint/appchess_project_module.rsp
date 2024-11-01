@@ -1,0 +1,10 @@
+-I
+/Users/kacper/studia/infa/cpp/projekt/chess_project
+-I
+/opt/homebrew/share/qt/qml
+--resource
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/rcc/qmake_chess_project.qrc
+--resource
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/rcc/appchess_project_raw_qml_0.qrc
+--module
+chess_project

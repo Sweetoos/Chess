@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e7ed3fc4c1d96cf95a2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chess_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0ca2178d15227d8f74db.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bf452434a07e40ced0cc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-65bfd059f458f70b8477.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-de7bd8897c9c404e5bd6.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project-Debug-8472762677a02caf4198.json",
+					"name" : "appchess_project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_autogen-Debug-c018b46595ecc80541a4.json",
+					"name" : "appchess_project_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_autogen_timestamp_deps-Debug-e356171c5bde6657317f.json",
+					"name" : "appchess_project_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_automoc_json_extraction-Debug-c5520f0ad5bd4f4910a0.json",
+					"name" : "appchess_project_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_qmlimportscan-Debug-4a5f5030f7891396b5c6.json",
+					"name" : "appchess_project_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_qmllint-Debug-02fd96a4df48dd4c229b.json",
+					"name" : "appchess_project_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_qmllint_json-Debug-7f0d114a179f89a7da00.json",
+					"name" : "appchess_project_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_qmllint_module-Debug-b63628a52e07f885f639.json",
+					"name" : "appchess_project_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_qmltyperegistration-Debug-cab205e14399bd5cc08c.json",
+					"name" : "appchess_project_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchess_project_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchess_project_tooling-Debug-aa02c2259282028e3736.json",
+					"name" : "appchess_project_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_32bit-Debug",
+		"source" : "/Users/kacper/studia/infa/cpp/projekt/chess_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

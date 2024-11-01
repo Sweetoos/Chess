@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/chess_project/">
+    <file alias="Main.qml">/Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml</file>
+  </qresource>
+</RCC>
+

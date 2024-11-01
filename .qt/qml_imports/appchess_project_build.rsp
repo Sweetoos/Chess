@@ -1,0 +1,14 @@
+-rootPath
+/Users/kacper/studia/infa/cpp/projekt/chess_project
+-cmake-output
+-output-file
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/qml_imports/appchess_project_build.cmake
+-importPath
+/Users/kacper/studia/infa/cpp/projekt/chess_project/chess_project
+-importPath
+/Users/kacper/studia/infa/cpp/projekt/chess_project
+-importPath
+/opt/homebrew/share/qt/qml
+-qrcFiles
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/rcc/qmake_chess_project.qrc
+/Users/kacper/studia/infa/cpp/projekt/chess_project/.qt/rcc/appchess_project_raw_qml_0.qrc
