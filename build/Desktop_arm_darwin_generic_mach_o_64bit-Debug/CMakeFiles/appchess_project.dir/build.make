@@ -106,17 +106,17 @@ chess_project/appchess_project.qmltypes: appchess_project_qmltyperegistrations.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating .rcc/qmlcache/appchess_project_qmlcache_loader.cpp"
 	/Users/kacper/Qt/6.5.3/macos/libexec/qmlcachegen --resource-name qmlcache_appchess_project --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc -o /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp @/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml_loader_file_list.rsp
 
-.rcc/qmlcache/appchess_project_Main_qml.cpp: /Users/kacper/Qt/6.5.3/macos/libexec/qmlcachegen
-.rcc/qmlcache/appchess_project_Main_qml.cpp: /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
-.rcc/qmlcache/appchess_project_Main_qml.cpp: .rcc/qmake_chess_project.qrc
-.rcc/qmlcache/appchess_project_Main_qml.cpp: .rcc/appchess_project_raw_qml_0.qrc
-.rcc/qmlcache/appchess_project_Main_qml.cpp: chess_project/appchess_project.qmltypes
-.rcc/qmlcache/appchess_project_Main_qml.cpp: chess_project/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating .rcc/qmlcache/appchess_project_Main_qml.cpp"
-	/opt/homebrew/Cellar/cmake/3.30.1/bin/cmake -E make_directory /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache
-	/Users/kacper/Qt/6.5.3/macos/libexec/qmlcachegen --bare --resource-path /qt/qml/chess_project/Main.qml -I /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug -I /Users/kacper/Qt/6.5.3/macos/./qml -i /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/chess_project/qmldir --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc -o /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
+.rcc/qmlcache/appchess_project_qml/Main_qml.cpp: /Users/kacper/Qt/6.5.3/macos/libexec/qmlcachegen
+.rcc/qmlcache/appchess_project_qml/Main_qml.cpp: /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
+.rcc/qmlcache/appchess_project_qml/Main_qml.cpp: .rcc/qmake_chess_project.qrc
+.rcc/qmlcache/appchess_project_qml/Main_qml.cpp: .rcc/appchess_project_raw_qml_0.qrc
+.rcc/qmlcache/appchess_project_qml/Main_qml.cpp: chess_project/appchess_project.qmltypes
+.rcc/qmlcache/appchess_project_qml/Main_qml.cpp: chess_project/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating .rcc/qmlcache/appchess_project_qml/Main_qml.cpp"
+	/opt/homebrew/Cellar/cmake/3.30.1/bin/cmake -E make_directory /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml
+	/Users/kacper/Qt/6.5.3/macos/libexec/qmlcachegen --bare --resource-path /qt/qml/chess_project/qml/Main.qml -I /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug -I /Users/kacper/Qt/6.5.3/macos/./qml -i /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/chess_project/qmldir --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc -o /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
 
-.rcc/qrc_appchess_project_raw_qml_0.cpp: /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
+.rcc/qrc_appchess_project_raw_qml_0.cpp: /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
 .rcc/qrc_appchess_project_raw_qml_0.cpp: .rcc/appchess_project_raw_qml_0.qrc
 .rcc/qrc_appchess_project_raw_qml_0.cpp: /Users/kacper/Qt/6.5.3/macos/./libexec/rcc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Running rcc for resource appchess_project_raw_qml_0"
@@ -300,19 +300,19 @@ CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-De
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp -o CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp.s
 
-CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o: CMakeFiles/appchess_project.dir/flags.make
-CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o: .rcc/qmlcache/appchess_project_Main_qml.cpp
-CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o: CMakeFiles/appchess_project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o -MF CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o.d -o CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o -c /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp
+CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o: CMakeFiles/appchess_project.dir/flags.make
+CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o: .rcc/qmlcache/appchess_project_qml/Main_qml.cpp
+CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o: CMakeFiles/appchess_project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o -MF CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o.d -o CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o -c /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp
 
-CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp > CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i
+CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp > CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i
 
-CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp -o CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s
+CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp -o CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s
 
 CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qrc_appchess_project_raw_qml_0.cpp.o: CMakeFiles/appchess_project.dir/flags.make
 CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qrc_appchess_project_raw_qml_0.cpp.o: .rcc/qrc_appchess_project_raw_qml_0.cpp
@@ -342,7 +342,7 @@ appchess_project_OBJECTS = \
 "CMakeFiles/appchess_project.dir/appchess_project_qmltyperegistrations.cpp.o" \
 "CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qrc_qmake_chess_project.cpp.o" \
 "CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp.o" \
-"CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o" \
+"CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o" \
 "CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qrc_appchess_project_raw_qml_0.cpp.o"
 
 # External object files for target appchess_project
@@ -360,7 +360,7 @@ appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_projec
 appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/appchess_project_qmltyperegistrations.cpp.o
 appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qrc_qmake_chess_project.cpp.o
 appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp.o
-appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o
+appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o
 appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qrc_appchess_project_raw_qml_0.cpp.o
 appchess_project.app/Contents/MacOS/appchess_project: CMakeFiles/appchess_project.dir/build.make
 appchess_project.app/Contents/MacOS/appchess_project: /Users/kacper/Qt/6.5.3/macos/lib/QtQuick.framework/Versions/A/QtQuick
@@ -382,7 +382,7 @@ CMakeFiles/appchess_project.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/appchess_project.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/appchess_project.dir/clean
 
-CMakeFiles/appchess_project.dir/depend: .rcc/qmlcache/appchess_project_Main_qml.cpp
+CMakeFiles/appchess_project.dir/depend: .rcc/qmlcache/appchess_project_qml/Main_qml.cpp
 CMakeFiles/appchess_project.dir/depend: .rcc/qmlcache/appchess_project_qmlcache_loader.cpp
 CMakeFiles/appchess_project.dir/depend: .rcc/qrc_appchess_project_raw_qml_0.cpp
 CMakeFiles/appchess_project.dir/depend: .rcc/qrc_qmake_chess_project.cpp

@@ -67,8 +67,8 @@ include CMakeFiles/appchess_project_qmllint_json.dir/compiler_depend.make
 include CMakeFiles/appchess_project_qmllint_json.dir/progress.make
 
 CMakeFiles/appchess_project_qmllint_json: /Users/kacper/Qt/6.5.3/macos/bin/qmllint
-CMakeFiles/appchess_project_qmllint_json: /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
-	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /Users/kacper/Qt/6.5.3/macos/bin/qmllint --bare -I /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug -I /Users/kacper/Qt/6.5.3/macos/./qml --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml --json /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/appchess_project_qmllint.json
+CMakeFiles/appchess_project_qmllint_json: /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
+	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /Users/kacper/Qt/6.5.3/macos/bin/qmllint --bare -I /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug -I /Users/kacper/Qt/6.5.3/macos/./qml --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml --json /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/appchess_project_qmllint.json
 
 appchess_project_qmllint_json: CMakeFiles/appchess_project_qmllint_json
 appchess_project_qmllint_json: CMakeFiles/appchess_project_qmllint_json.dir/build.make

@@ -391,29 +391,29 @@ appchess_project_qmltyperegistrations.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/appchess_project_qmltyperegistrations.cpp.s
 .PHONY : appchess_project_qmltyperegistrations.cpp.s
 
-build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.o: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o
-.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.o
+build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.o: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o
+.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.o
 
 # target to build an object file
-build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o
-.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.o
+build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o
+.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.o
 
-build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.i: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i
-.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.i
+build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.i: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i
+.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.i
 
 # target to preprocess a source file
-build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i
-.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.i
+build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i
+.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.i
 
-build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.s: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s
-.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.s
+build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.s: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s
+.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.s
 
 # target to generate assembly for a file
-build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s
-.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.cpp.s
+build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/appchess_project.dir/build.make CMakeFiles/appchess_project.dir/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s
+.PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.cpp.s
 
 build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.o: build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.cpp.o
 .PHONY : build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.o
@@ -711,9 +711,9 @@ help:
 	@echo "... appchess_project_qmltyperegistrations.o"
 	@echo "... appchess_project_qmltyperegistrations.i"
 	@echo "... appchess_project_qmltyperegistrations.s"
-	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.o"
-	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.i"
-	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_Main_qml.s"
+	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.o"
+	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.i"
+	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qml/Main_qml.s"
 	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.o"
 	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.i"
 	@echo "... build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmlcache/appchess_project_qmlcache_loader.s"

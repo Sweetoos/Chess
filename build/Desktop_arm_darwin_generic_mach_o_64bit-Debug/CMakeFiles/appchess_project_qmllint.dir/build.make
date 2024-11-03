@@ -67,8 +67,8 @@ include CMakeFiles/appchess_project_qmllint.dir/compiler_depend.make
 include CMakeFiles/appchess_project_qmllint.dir/progress.make
 
 CMakeFiles/appchess_project_qmllint: /Users/kacper/Qt/6.5.3/macos/bin/qmllint
-CMakeFiles/appchess_project_qmllint: /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
-	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /Users/kacper/Qt/6.5.3/macos/bin/qmllint --bare -I /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug -I /Users/kacper/Qt/6.5.3/macos/./qml --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
+CMakeFiles/appchess_project_qmllint: /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
+	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /Users/kacper/Qt/6.5.3/macos/bin/qmllint --bare -I /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug -I /Users/kacper/Qt/6.5.3/macos/./qml --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_chess_project.qrc --resource /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.rcc/appchess_project_raw_qml_0.qrc /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
 
 appchess_project_qmllint: CMakeFiles/appchess_project_qmllint
 appchess_project_qmllint: CMakeFiles/appchess_project_qmllint.dir/build.make

@@ -19,13 +19,14 @@ qt_add_executable(appchess_project
     src/piece.cpp
     src/queen.cpp
     src/rook.cpp
+    src/board.cpp
 )
 
 qt_add_qml_module(appchess_project
     URI chess_project
     VERSION 1.0
     QML_FILES
-        Main.qml
+        qml/Main.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

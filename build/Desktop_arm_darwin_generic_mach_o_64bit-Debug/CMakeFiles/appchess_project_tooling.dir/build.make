@@ -66,11 +66,11 @@ include CMakeFiles/appchess_project_tooling.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/appchess_project_tooling.dir/progress.make
 
-chess_project/Main.qml: /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating chess_project/Main.qml"
-	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /opt/homebrew/Cellar/cmake/3.30.1/bin/cmake -E copy /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/chess_project/Main.qml
+chess_project/qml/Main.qml: /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating chess_project/qml/Main.qml"
+	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /opt/homebrew/Cellar/cmake/3.30.1/bin/cmake -E copy /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml /Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/chess_project/qml/Main.qml
 
-appchess_project_tooling: chess_project/Main.qml
+appchess_project_tooling: chess_project/qml/Main.qml
 appchess_project_tooling: CMakeFiles/appchess_project_tooling.dir/build.make
 .PHONY : appchess_project_tooling
 

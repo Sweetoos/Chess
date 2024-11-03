@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "chess_project/Main.qml"
+  "chess_project/qml/Main.qml"
 )
 
 # Per-language clean rules from dependency scanning.

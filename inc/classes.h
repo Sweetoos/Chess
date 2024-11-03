@@ -7,3 +7,4 @@
 #include "pawn.h"
 #include "king.h"
 #include "queen.h"
+#include "classes.h"

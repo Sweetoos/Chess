@@ -92,8 +92,8 @@ clean: CMakeFiles/appchess_project_autogen.dir/clean
 # Target rules for target CMakeFiles/appchess_project.dir
 
 # All Build rule for target.
-CMakeFiles/appchess_project.dir/all: CMakeFiles/appchess_project_autogen.dir/all
 CMakeFiles/appchess_project.dir/all: CMakeFiles/appchess_project_autogen_timestamp_deps.dir/all
+CMakeFiles/appchess_project.dir/all: CMakeFiles/appchess_project_autogen.dir/all
 CMakeFiles/appchess_project.dir/all: CMakeFiles/appchess_project_automoc_json_extraction.dir/all
 CMakeFiles/appchess_project.dir/all: CMakeFiles/appchess_project_tooling.dir/all
 CMakeFiles/appchess_project.dir/all: CMakeFiles/appchess_project_qmlimportscan.dir/all

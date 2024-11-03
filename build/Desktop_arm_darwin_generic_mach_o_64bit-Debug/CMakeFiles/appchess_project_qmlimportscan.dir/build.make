@@ -71,7 +71,7 @@ CMakeFiles/appchess_project_qmlimportscan: .qt_plugins/Qt6_QmlPlugins_Imports_ap
 .qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.cmake: /Users/kacper/Qt/6.5.3/macos/libexec/qmlimportscanner
 .qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.cmake: .rcc/qmake_chess_project.qrc
 .qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.cmake: .rcc/appchess_project_raw_qml_0.qrc
-.qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.cmake: /Users/kacper/studia/infa/cpp/projekt/chess_project/Main.qml
+.qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.cmake: /Users/kacper/studia/infa/cpp/projekt/chess_project/qml/Main.qml
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running qmlimportscanner for appchess_project"
 	cd /Users/kacper/studia/infa/cpp/projekt/chess_project && /Users/kacper/Qt/6.5.3/macos/libexec/qmlimportscanner @/Users/kacper/studia/infa/cpp/projekt/chess_project/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appchess_project.rsp
 
